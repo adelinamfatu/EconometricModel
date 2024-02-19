@@ -1,5 +1,5 @@
 # Proiect Econometrie - Modele econometrice
-# APLICATIA I: Analiza factorilor care influențează prețul caselor din București   
+## APLICATIA I: Analiza factorilor care influențează prețul caselor din București   
   Aplicația studiază influențele asupra prețului imobilelor din București la nivelul anului 2019. Este folosit software-ul RStudio și limbajul și mediul R pentru calcul statistic și grafică. 
   -> 𝑌=𝛼+𝛽𝑋
       unde:
@@ -28,7 +28,7 @@
 
   Modelul economic care descrie factorii determinanți ai prețului unei locuințe din București este: 𝑃𝑟𝑒𝑡=𝑓(𝑁𝑟𝐶𝑎𝑚𝑒𝑟𝑒,𝑆𝑢𝑝𝑟𝑎𝑓𝑎𝑡𝑎,𝐸𝑡𝑎𝑗,𝑇𝑜𝑡𝑎𝑙𝐸𝑡𝑎𝑗𝑒,𝑆𝑒𝑐𝑡𝑜𝑟,𝑆𝑐𝑜𝑟)
 
-# APLICATIA II: Speranța la viață în perioada 2005-2015 din Europa 
+## APLICATIA II: Speranța la viață în perioada 2005-2015 din Europa 
   Aplicația studiază indicele fericirii la nivel global și alți factori ce posibil îl influențează. Este folosit software-ul RStudio și limbajul și mediul R pentru calcul statistic și grafică, la fel ca aplicația 1.
   
   În aplicație sunt utilizate următoarele teste:
